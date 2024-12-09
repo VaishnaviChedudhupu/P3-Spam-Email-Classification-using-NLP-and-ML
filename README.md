@@ -5,7 +5,7 @@
 <p> Spam email classification using Natural Language Processing (NLP) and Machine Learning (ML) involves the automatic identification of unsolicited and potentially harmful emails. This process leverages various NLP techniques to analyze the content of emails, extracting features such as keywords, phrases, and metadata to differentiate between spam and legitimate messages. Machine learning algorithms, including Naive Bayes, logistic regression, support vector machines, and neural networks, are trained on labeled datasets to learn the patterns associated with spam. The goal is to improve email security by filtering out spam, enhancing user experience, and reducing the risk of phishing attacks and malware. By implementing this technology, organizations can streamline communication and protect users from unwanted disruptions.</p>
 
 
-<h2> Software used </h2>
+<h2> Software Requirements </h2>
 
 <p>
 1) Python 3.x: The programming language used for data analysis.
@@ -20,7 +20,7 @@
 
 6) Jupyter Notebook: Python IDE</p>
 
-<h2>Project Execution</h2>
+<h2>Project Execution Process</h2>
 <p>
   The execution process for this project using the Naive Bayes algorithm typically involves several key steps, from data collection to model evaluation. Below is a structured outline of the process:
 
@@ -48,7 +48,7 @@ Stemming/Lemmatization: Reduce words to their base or root form (optional).
 4. Feature Extraction
 Feature Extraction:Convert text data into numerical form.
 
->>Techniques:
+Techniques:
 
 (i)Bag of Words: Represents text as a frequency count of words.
 
@@ -85,4 +85,4 @@ Consider creating a user interface that allows users to view results or manage s
 <p>I extend my heartfelt gratitude to Edunet Foundation and TechSaksham for providing the opportunity to work on the Spam Email Classification project. I sincerely thank Abdul Aziz Md for his expert guidance, support, and valuable insights throughout the internship. This project enhanced my understanding of Natural Language Processing (NLP) and Machine Learning (ML). I also appreciate the collaborative environment and resources offered by the program. This experience has been instrumental in advancing my skills and knowledge.
 
 </p>
-# Happy Learning
+<h3>Happy Learning</h3>
